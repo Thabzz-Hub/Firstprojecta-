@@ -15,7 +15,7 @@ public class BestProjectGithub {
        int b= 10;
        int c= a + b;
      
-    System.out.println("Results : + int c");
+    System.out.println("Results:"  +c);
     
     }
 }
